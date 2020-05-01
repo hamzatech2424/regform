@@ -1,0 +1,43 @@
+
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color: purple;
+}
+.container{
+	width: auto;
+	height: 1300px;
+	background-color:purple;
+}
+
+input{
+
+color: grey;
+padding-left: 10px;
+}
+
+span{
+	color: white;
+}
+h5{
+	color: white;
+}
+
+.h{
+padding-left: 70px;
+}
+
+.i{
+	width: 95%;
+	height: 60%;
+}
+
+.b1{
+	margin-left: 600px;
+}
+
+img{
+	padding-left: 460px;
+	width: 460px;
+}
